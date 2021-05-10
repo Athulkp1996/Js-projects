@@ -1,6 +1,6 @@
-function first(firstcall)
+function first(firstCall)
 {
-    firstcall();  
+    firstCall();  
 }
 
 function second() {
